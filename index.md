@@ -1,4 +1,4 @@
 **Hello world!**
-My name is 
-**Annie Phan**
- and this is a new push
+My name is Annie Phan. I am a first year computer science major at UCSD.
+
+[Lab Report 1](lap-report-1-week-2.md) 
