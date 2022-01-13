@@ -6,8 +6,7 @@ Click onto the link [VSCodelink](https://code.visualstudio.com/Download) and dow
 
 Once you have installed it on your computer, your screen should look like this:
 
-//INSERT SCREENSHOT
-
+![Image](pic1.jpeg)
 
 
 ## 2) Remotely connect to your ieng6 course-specific account
@@ -23,11 +22,11 @@ Since it is likely that it is your first time connecting to this, you will see a
 
 Now, it should ask for your password. Here is what your terminal should look like.
 
-//INSERT IMAGE
+![Image](pic2.1.jpeg)
 
 From there, type in your password and press enter. Once you press enter, it should look like this.
 
-//INSERT IMAGE
+![Image](pic2.2.jpeg)
 
 
 Congratulations! Once you saw that screen in your terminal, it means that you are now successfully connected to the computers in the CSE basement. Time to try some commands!
@@ -42,15 +41,21 @@ Here are a list of commands that you can do both on your computer(client) and th
 
 To run both on your computer and the remote computer, on the far right side of the terminal, press “Split Terminal".
 
-//INSERT IMAGE
+![Image](pic3.1.jpeg)
 
 It should look like this after being split. 
 
-//INSERT IMAGE
+![Image](pic3.2.jpeg)
 
 “ssh” is the remote computer (left) and “bash” is your computer(right)
 
 Type in those commands. Compare and contrast what they look like in both your computer and the remote computer. 
+
+Here are my examples of running the `ls` command in the server. 
+![Image](pic3.3.jpeg)
+
+`ls` command in the client.
+![Image](pic3.4.jpeg)
 
 To log out of the remote server, run the command `exit` or use ctrl + D.
 
@@ -85,7 +90,7 @@ On your client/computer, enter the command `ssh-keygen`.
 
 Follow the screenshot down below to guide you along what to write in your client terminal. Note that mine was asked to overwrite because I already did this step in the past. If it is your first time logging in, then you should be able to go right ahead and enter your own passphrase. 
 
-//INSERT IMAGE
+![Image](pic5.1.jpeg)
 
 Now that you have made they key, log back into the server. 
 
