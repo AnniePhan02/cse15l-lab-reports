@@ -59,7 +59,7 @@ Here are my examples of running the `ls` command in the server.
 
 To log out of the remote server, run the command `exit` or use ctrl + D.
 
-## Moving files over with scp
+## 4) Moving files over with scp
 Now, create a file called WhereAmI.java on your computer and insert this into your file. 
 ```
 class WhereAmI {
