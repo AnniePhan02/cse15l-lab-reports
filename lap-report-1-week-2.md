@@ -79,11 +79,11 @@ From your computer, run this command (replacing **zz** with your course-specific
 
  Enter your command and enter your password. Your screen should now look like this.
  
-//INSERT IMAGE
+![Image](pic4.1.jpeg)
 
 Now, log back into your ieng6 remote computer and enter the command `ls`. Now, you should see “WhereAmI.java” listed. It looks something like this. 
 
-//INSERT IMAGE
+![Image](pic4.2.jpeg)
 
 ## 5) SSH Keys
 On your client/computer, enter the command `ssh-keygen`. 
@@ -107,7 +107,7 @@ Now, go back into your client/your computer. Type this in but replace with your 
 
 Now you should be able to do ssh or scp from this client to the server without needing to enter your password. Here is what my screen looks like as a guide.
 
-//INSERT IMAGE
+![Image](pic5.2.jpeg)
 
 ## 6) Optimizing remote running
 To optimize your remote running time, some things you can do are:
@@ -119,9 +119,8 @@ To optimize your remote running time, some things you can do are:
 
 For example, here is me running two commands at once in the remote server, and this is what my terminal looks like. 
 
-//INSERT IMAGE
+![Image](pic6.jpeg)
 
 Feel free to spend some time and play around with these commands. 
 
-
-![Image](task3-diagram.png)
+I hope this tutorial made sense. Have a nice day! Enjoy!
