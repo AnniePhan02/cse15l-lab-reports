@@ -10,7 +10,7 @@ Once you have installed it on your computer, your screen should look like this:
 
 
 ## 2) Remotely connect to your ieng6 course-specific account
-Now, let's connect to your course specific account. Locate your account name by following this link: [AccountLookup](https://sdacs.ucsd.edu/~icc/index.php). Note that it will be something along the lines of `cs15wi22**zz**@ieng6.ucsd.edu` Replace `**zz**` with your course-specific initials. 
+Now, let's connect to your course specific account. Locate your account name by following this link: [AccountLookup](https://sdacs.ucsd.edu/~icc/index.php). Note that it will be something along the lines of `cs15wi22zz@ieng6.ucsd.edu` Replace `zz` with your course-specific initials. 
 
 Also, you will need to change your password in order to activate this account. It might take around 15 minutes for the password to activate before you can remotely log in.
 
