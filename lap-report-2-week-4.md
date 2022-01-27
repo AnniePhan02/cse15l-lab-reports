@@ -36,8 +36,6 @@ Link to test file for failure-inducing input.
 Symptom of the bug was found when running the command line and the expected was different from actual. The expected was `some-page.html` and the actual was `[r l(]`. Here is the output of running the file at the command line. 
 ![Image](CommitFix2Error.png)
 
-Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
-
 Between the bug, symptom, and failure-inducing input, the expected and actual output differed which illustrates a symptom. When code-tracing, the bug was that the program did not consider if there are parentheses and brackets in the link title. The failure-inducing input showed the symptom of the unexpected input of `[r l(]`, which was that bug. 
 
 

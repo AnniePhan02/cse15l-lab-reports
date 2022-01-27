@@ -2,3 +2,5 @@
 My name is Annie Phan. I am a first year computer science major at UCSD.
 
 [Lab Report 1](lap-report-1-week-2.md) 
+
+[Lab Report 2](lap-report-2-week-4.md)
