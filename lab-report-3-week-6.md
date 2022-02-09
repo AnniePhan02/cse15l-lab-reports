@@ -1,5 +1,5 @@
 # Lab Report 3
-## Copy Whole Directories 
+## Copy Whole Directories with `scp`
 Hello, today I will show how I copy whole directories with `scp -r` and put them into my ieng6 account.
 
 Right now the entire directory is in my client/own computer. Here is a picture of what is in my directory. 
@@ -35,15 +35,16 @@ The files compiled and ran. The tests passed!
 Next, I am going to do this again using one command line.
 I am running the `scp` and `ssh` in one line.
 
-I typed in one command line:
-`scp -r . cs15lwiabl22@ieng6.ucsd.edu:~/markdown-parse2 ; ssh cs15lwi22abl@ieng6.ucsd.edu` 
+I typed in one command line with the commands separated by `;`. 
+
+`scp -r . cs15lwiabl22@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu` 
 
 Here is what that looks like.
 ![Image](lab3.5.png)
 
-`scp -r . cs15lwi22abl@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu; cd markdown-parse2; javac MarkdownParse.java; javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest`
+Hope this all made sense and have a nice day! 
 
-
+`scp -r . cs15lwiabl22@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu "ls"`
 
 
 
