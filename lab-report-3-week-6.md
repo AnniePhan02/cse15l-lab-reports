@@ -37,16 +37,9 @@ I am running the `scp` and `ssh` in one line.
 
 I typed in one command line with the commands separated by `;`. 
 
-`scp -r . cs15lwiabl22@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu` 
+`scp -r . cs15lwi22abl@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu`
 
 Here is what that looks like.
 ![Image](lab3.5.png)
 
 Hope this all made sense and have a nice day! 
-
-`scp -r . cs15lwiabl22@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu "ls"`
-
-
-
-
-
