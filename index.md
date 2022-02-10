@@ -5,4 +5,4 @@ My name is Annie Phan. I am a first year computer science major at UCSD.
 
 [Lab Report 2](lap-report-2-week-4.md)
 
-[Lab Report 3](lap-report-3-week-6.md)
+[Lab Report 3](lab-report-3-week-6.md)
