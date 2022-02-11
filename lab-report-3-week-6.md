@@ -33,13 +33,16 @@ The files compiled and ran. The tests passed!
 
 ## Using one command line: 
 Next, I am going to do this again using one command line.
-I am running the `scp` and `ssh` in one line.
+I am running the `scp`, `ssh` and the tests in one line.
 
-I typed in one command line with the commands separated by `;`. 
+I typed in one command line with the commands separated by `;` and commands in `" "` to run after logging into ieng6. 
 
-`scp -r . cs15lwi22abl@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu`
+`scp -r . cs15lwi22abl@ieng6.ucsd.edu:~/markdown-parse2; ssh cs15lwi22abl@ieng6.ucsd.edu "cd markdown-parse2; /software/CSE/oracle-java-se-14/jdk-14.0.2/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-se-14/jdk-14.0.2/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"`
 
-Here is what that looks like.
-![Image](lab3.5.png)
+Here is what that looks like:
+![Image](lab3.5.1.png)
+![Image](lab3.6.png)
+
+I would like to also note that `javac` and `java` were replaced by `/software/CSE/oracle-java-se-14/jdk-14.0.2/bin/java`.
 
 Hope this all made sense and have a nice day! 
