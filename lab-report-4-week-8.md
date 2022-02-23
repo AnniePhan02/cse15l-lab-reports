@@ -50,7 +50,7 @@ Here is the output when running the tests. It did not pass as the expected and a
 ![Image](lab4.9.png)
 
 ## Additional Questions
-1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change. 
+**1)** Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change. 
 
 Yes, I believe that there is a small code change that would make my program work for snippet 1 and all related cases that use inline code with backticks. I want to check if there is a backtick within a closed parentheses because there cannot be a backtick in a link. 
 
@@ -62,10 +62,10 @@ if (markdown.indexOf("`", nextOpenBracket) >= 0) {
 }
 ```
 
-2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+**2)** Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 No, I feel that there is not a small code change that will make my code work for snippet 2 and all related cases that nest parentheses, brackets and escaped brackets. It would be more of a change that must change the structure of code and how it is formed. I suggest to use a stack and pop type of structure to find the closed and open brackets/parentheses. In order to use this, I would have to restructure my code in the way that it supports a stack structure.
 
-3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+**3)** Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 No, there is not a small code change that will make my program work for snippet 3 and all related cases that have newlines in brackets and parentheses. In my current code, it checks for if the link contains spaces and if it does, it does not include the link. Currently, my actual output is `[]` and that is because any link with a space is not added to the data array of links. Therefore, in order to create a fix, I would have to delete my current lines of code that exclude links with spaces and add new code that would consider cases that have newlines in brackets and parentheses.
