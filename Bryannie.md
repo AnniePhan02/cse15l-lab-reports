@@ -27,7 +27,7 @@ piture of me with the spoon
 Annie realized that she kinda did like him (totes not girl boss slay of her) but she never mentioned it.
 
 
-## December 2021
+## Birthday Festivities
 
 The night before Annie's birthday, Amber came up with a scheme to hose someone. Hess, Amber, Annie, Bryan and the sexiest man alive (Will), all went to AppleBees. At the end of the night, some bozo was hosed down. Midnight passed and it hit Annie's bday. First birthday together!
 
@@ -46,9 +46,10 @@ She saw what a great guy he was on her birthday.
 ## Passing time
 As time passed, they began to grow closer and call every night. It was (and is) something that they both look forward to. She enjoyed talking to him everyday. He has always been there for her.
 
+They were each other's first everything.
+
 [attach more pictures of random adventures we had]
 
-TO BE CONTINUED...
 
 ## Valentines Day
 Our first valentines day, Bryan was such a sweetheart. We went to the Japanese friendship garden and got Jasmine Dim Sum. A 10/10 date. Bryan also got Annie dangling butterly earrings that she still wears. His sugar baby. How lovely. 
@@ -57,7 +58,10 @@ Our first valentines day, Bryan was such a sweetheart. We went to the Japanese f
 
 ## The Saga Continues
 
+We official got together on December 10, 2022. After a whole year of knowing each other and being each other's best friend. Bryan asked Annie out while sliding down a snowy slope. Snow tubing in Big Bear! We are official. There are many more memories to come.
 
-Thank you for reading all of this.
+Thank you for following along this journey. Sending much love and appreciation.
+
+TO BE CONTINUED...
 
 [˚ʚ♡ɞ˚](letter-for-bryan.md)
