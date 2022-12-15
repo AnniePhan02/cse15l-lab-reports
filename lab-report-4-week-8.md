@@ -10,44 +10,44 @@ Here are the link to the repos:
 I believe that it should produce `[url.com, google.com, ucsd.edu]`
 
 Here is how I turned it into a test in `MarkdownParseTest.java`
-![Image](lab4.1.png)
+![Image](Lab4/lab4.1.png)
 
 ### My group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 95.
-![Image](lab4.2.png)
+![Image](Lab4/lab4.2.png)
 
 ### Other group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 91.
-![Image](lab4.3.png)
+![Image](Lab4/lab4.3.png)
 
 
 ## Snippet 2
 I believe that it should produce `[b.com, example.come]`
 
 Here is how I turned it into a test in `MarkdownParseTest.java`
-![Image](lab4.4.png)
+![Image](Lab4/lab4.4.png)
 
 ### My group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 103.
-![Image](lab4.5.png)
+![Image](Lab4/lab4.5.png)
 
 ### Other group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 99.
-![Image](lab4.6.png)
+![Image](Lab4/lab4.6.png)
 
 ## Snippet 3
 I believe that it should produce `[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`
 
 Here is how I turned it into a test in `MarkdownParseTest.java`
-![Image](lab4.7.png)
+![Image](Lab4/lab4.7.png)
 
 ### My group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 111.
-![Image](lab4.8.png)
+![Image](Lab4/lab4.8.png)
 
 ### Other group's implementation
 Here is the output when running the tests. It did not pass as the expected and actual differed. The JUnit test that failed was on line 107.
-![Image](lab4.9.png)
+![Image](Lab4/lab4.9.png)
 
 ## Additional Questions
 **1)** Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change. 

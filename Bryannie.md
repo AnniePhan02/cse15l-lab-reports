@@ -46,6 +46,18 @@ She saw what a great guy he was on her birthday.
 ## Passing time
 As time passed, they began to grow closer and call every night. It was (and is) something that they both look forward to. She enjoyed talking to him everyday. He has always been there for her.
 
+[attach more pictures of random adventures we had]
+
 TO BE CONTINUED...
 
-[<3](letter-for-bryan.md)
+## Valentines Day
+Our first valentines day, Bryan was such a sweetheart. We went to the Japanese friendship garden and got Jasmine Dim Sum. A 10/10 date. Bryan also got Annie dangling butterly earrings that she still wears. His sugar baby. How lovely. 
+
+[insert pic of Vday at Japanese friedship garden]
+
+## The Saga Continues
+
+
+Thank you for reading all of this.
+
+[˚ʚ♡ɞ˚](letter-for-bryan.md)

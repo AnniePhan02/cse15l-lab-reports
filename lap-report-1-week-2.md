@@ -6,7 +6,7 @@ Click onto the link [VSCodelink](https://code.visualstudio.com/Download) and dow
 
 Once you have installed it on your computer, your screen should look like this:
 
-![Image](pic1.jpeg)
+![Image](Lab1/pic1.jpeg)
 
 
 ## 2) Remotely connect to your ieng6 course-specific account
@@ -22,11 +22,11 @@ Since it is likely that it is your first time connecting to this, you will see a
 
 Now, it should ask for your password. Here is what your terminal should look like.
 
-![Image](pic2.1.jpeg)
+![Image](Lab1/pic2.1.jpeg)
 
 From there, type in your password and press enter. Once you press enter, it should look like this.
 
-![Image](pic2.2.jpeg)
+![Image](Lab1/pic2.2.jpeg)
 
 
 Congratulations! Once you saw that screen in your terminal, it means that you are now successfully connected to the computers in the CSE basement. Time to try some commands!
@@ -41,21 +41,21 @@ Here are a list of commands that you can do both on your computer(client) and th
 
 To run both on your computer and the remote computer, on the far right side of the terminal, press “Split Terminal".
 
-![Image](pic3.1.jpeg)
+![Image](Lab1/pic3.1.jpeg)
 
 It should look like this after being split. 
 
-![Image](pic3.2.jpeg)
+![Image](Lab1/pic3.2.jpeg)
 
 “ssh” is the remote computer (left) and “bash” is your computer(right)
 
 Type in those commands. Compare and contrast what they look like in both your computer and the remote computer. 
 
 Here are my examples of running the `ls` command in the server. 
-![Image](pic3.3.jpeg)
+![Image](Lab1/pic3.3.jpeg)
 
 `ls` command in the client.
-![Image](pic3.4.jpeg)
+![Image](Lab1/pic3.4.jpeg)
 
 To log out of the remote server, run the command `exit` or use ctrl + D.
 
@@ -79,18 +79,18 @@ From your computer, run this command (replacing **zz** with your course-specific
 
  Enter your command and enter your password. Your screen should now look like this.
  
-![Image](pic4.1.jpeg)
+![Image](Lab1/pic4.1.jpeg)
 
 Now, log back into your ieng6 remote computer and enter the command `ls`. Now, you should see “WhereAmI.java” listed. It looks something like this. 
 
-![Image](pic4.2.jpeg)
+![Image](Lab1/pic4.2.jpeg)
 
 ## 5) SSH Keys
 On your client/computer, enter the command `ssh-keygen`. 
 
 Follow the screenshot down below to guide you along what to write in your client terminal. Note that mine was asked to overwrite because I already did this step in the past. If it is your first time logging in, then you should be able to go right ahead and enter your own passphrase. 
 
-![Image](pic5.1.jpeg)
+![Image](Lab1/pic5.1.jpeg)
 
 Now that you have made they key, log back into the server. 
 
@@ -107,7 +107,7 @@ Now, go back into your client/your computer. Type this in but replace with your 
 
 Now you should be able to do ssh or scp from this client to the server without needing to enter your password. Here is what my screen looks like as a guide.
 
-![Image](pic5.2.jpeg)
+![Image](Lab1/pic5.2.jpeg)
 
 ## 6) Optimizing remote running
 To optimize your remote running time, some things you can do are:
@@ -119,7 +119,7 @@ To optimize your remote running time, some things you can do are:
 
 For example, here is me running two commands at once in the remote server, and this is what my terminal looks like. 
 
-![Image](pic6.jpeg)
+![Image](Lab1/pic6.jpeg)
 
 Feel free to spend some time and play around with these commands. 
 
