@@ -12,4 +12,6 @@ My name is Annie Phan. I am a first year computer science major at UCSD.
 [Lab Report 5](lab-report-5-week-10.md)
 
 ------
+Click below for the loveliest surprise
+
 [Annie and Bryan <3](Bryannie.md)
